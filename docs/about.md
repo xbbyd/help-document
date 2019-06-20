@@ -1,6 +1,6 @@
 # 关于我们
 
-> An awesome project.
+> An awesome project. [index.html](index.html) 
 
 "熊爸爸为什么"是山西三一世界教育科技有限公司开发的全国首个以连接孩子提问与熊爸爸回答的互动类有声故事及科学解答的平台，致力于保护和启发孩子们萌生的好奇心。
 

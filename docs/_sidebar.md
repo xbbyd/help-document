@@ -1,6 +1,6 @@
 - 财务管理
 
-  - [分销收益](thread/earning.md)
+  - [分销收益](thread/earnings.md)
   - [synchronized 关键字原理](thread/Synchronize.md)
   - [多线程的三大核心](thread/Threadcore.md)
   - [对锁的一些认知](thread/Java-lock.md)

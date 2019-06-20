@@ -1,6 +1,6 @@
-- Java 多线程
+- 财务管理
 
-  - [多线程中的常见问题](thread/Thread-common-problem.md)
+  - [分销收益](thread/earning.md)
   - [synchronized 关键字原理](thread/Synchronize.md)
   - [多线程的三大核心](thread/Threadcore.md)
   - [对锁的一些认知](thread/Java-lock.md)

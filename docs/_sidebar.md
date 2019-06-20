@@ -1,6 +1,5 @@
-- 财务管理
 
-  - [分销收益](thread/earnings.md)
+
 - 借阅管理
   - [线上借书单](thread/online.md)
   - [配送管理](thread/distribution.md)
@@ -17,7 +16,7 @@
   - [短信群发](thread/sms.md)
 - 图书管理
   - [绘本管理](thread/books.md)
-  - [标签管理](thread/subject.md)
+  - [标签管理](thread/label.md)
 - 课程管理
   - [课程管理](thread/scourse.md)
 - 商品管理
@@ -26,4 +25,5 @@
   - [商城采购](thread/purchaseBooks.md)
 - 财务管理
   - [分销收益](thread/scourse.md)
+  - [其他收支](thread/otherSpending.md)
 

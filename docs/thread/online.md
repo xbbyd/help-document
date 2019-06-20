@@ -1,0 +1,22 @@
+
+
+# **线上借书单：**
+
+> 指从小程序端进行借阅操作的订单。*只有注册并付费的会员（正式会员）才能进行线上借阅。
+
+![img](https://uploader.shimo.im/f/psTq84RJir0gtRe7.png!thumbnail)
+
+- 处理线上借书订单，找到对应订单后【查看】并处理，
+
+
+![1561012912306](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561012912306.png)
+
+
+
+- 在借书单详情中选择【出库】后，进行【配送员】的分配，完成当前【待出库】事务的处理。 ![img](https://uploader.shimo.im/f/osV8DKGZmEs3GL1a.png!thumbnail)       
+
+
+
+
+
+

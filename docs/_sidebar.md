@@ -1,27 +1,23 @@
 - 财务管理
 
   - [分销收益](thread/earnings.md)
-  - [synchronized 关键字原理](thread/Synchronize.md)
-  - [多线程的三大核心](thread/Threadcore.md)
-  - [对锁的一些认知](thread/Java-lock.md)
-  - [ReentrantLock 实现原理 ](thread/ReentrantLock.md)
-  - [ConcurrentHashMap 的实现原理](thread/ConcurrentHashMap.md)
-  - [如何优雅的使用和理解线程池](thread/ThreadPoolExecutor.md)
-  - [深入理解线程通信](thread/thread-communication.md)
-  - [一个线程罢工的诡异事件](thread/thread-gone.md)
-  - [线程池中你不容错过的一些细节](thread/thread-gone2.md)
-  - [『并发包入坑指北』之阻塞队列](thread/ArrayBlockingQueue.md)
+  - 个发你的
+- 借阅管理
+  - [线上借书单](thread/online.md)
+  - [配送管理](thread/distribution.md)
+- 会员管理
+  - [正式会员](thread/member.md)
+  - [潜在会员](thread/potential.md)
+- 会员服务
+  - [服务登记](thread/service.md)
+  - [阅读能力测评](thread/readTest.md)
+- [精品分销](thread/purchaseDistribution.md)
+- 营销管理
+  - [活动管理](thread/activity.md)
+  - [短信群发](thread/sms.md)
+- 图书管理
+  - [绘本管理](thread/books.md)
+  - [标签管理](thread/subject.md)
+- 课程管理
+  - [标签管理](thread/subject.md)
 
-- JVM
-
-  - [Java 运行时内存划分](jvm/MemoryAllocation.md)
-  - [类加载机制](jvm/ClassLoad.md)
-  - [OOM 分析](jvm/OOM-analysis.md)
-  - [垃圾回收](jvm/GarbageCollection.md)
-  - [对象的创建与内存分配](jvm/newObject.md)
-  - [你应该知道的 volatile 关键字](jvm/volatile.md)
-  - [一次内存溢出排查优化实战](jvm/OOM-Disruptor.md)
-  - [一次 HashSet 所引起的并发问题](jvm/JVM-concurrent-HashSet-problem.md)
-  - [一次生产 CPU 100% 排查优化实践](jvm/cpu-percent-100.md)
-
-- [联系作者](contactme.md)

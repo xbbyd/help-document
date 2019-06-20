@@ -1,0 +1,14 @@
+**短信群发：**支持分组筛选发送，精准触达降低转化成本，提高短息内容产出。拥有短信模板，文案编辑不在麻烦。
+
+1、图中为短信发送记录及发送状态。
+
+![1561018329281](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561018329281.png)
+
+
+
+2、①选择【短信模板】进行营销活动的转化高速触达。②选择需要触达的用户，进行发送。
+
+![1561019075493](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561019075493.png)
+③选择是定时发送，后保存。
+
+![1561019223354](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561019223354.png)

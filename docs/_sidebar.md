@@ -2,7 +2,7 @@
 
 - 借阅管理
   - [线上借书单](thread/online.md)
-  - [店内借书](thread/in stores.md)
+  - [店内借书](thread/instores.md)
   - [店内还书](thread/Untitled.md)
   - [配送管理](thread/distribution.md)
 - 会员管理

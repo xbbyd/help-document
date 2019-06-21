@@ -6,12 +6,7 @@
 
 ![img](https://uploader.shimo.im/f/psTq84RJir0gtRe7.png!thumbnail)
 
-- 处理线上借书订单，找到对应订单后【查看】并处理，
-
-
-![1561012912306](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561012912306.png)
-
-
+- 处理线上借书订单，找到对应订单后【查看】并处理。![1561012912306](E:\熊爸爸\熊爸\教程\help-document\docs\_media\1561012912306.png)
 
 - 在借书单详情中选择【出库】后，进行【配送员】的分配，完成当前【待出库】事务的处理。 ![img](https://uploader.shimo.im/f/osV8DKGZmEs3GL1a.png!thumbnail)       
 

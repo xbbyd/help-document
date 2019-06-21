@@ -2,11 +2,6 @@
 
 > 是提供给馆内课程管理服务的工具。
 
-- 课程管理。新增课程内容、筛选课程状态。
+- 课程管理。新增课程内容、筛选课程状态。![1561020989643](E:\熊爸爸\熊爸\教程\help-document\docs\_media\1561020989643.png)
 
-![1561020989643](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561020989643.png)
-
-- 开通课程。已开通课程的会员列表。
-
-
-![1561020972958](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1561020972958.png)
+- 开通课程。已开通课程的会员列表。![1561020972958](E:\熊爸爸\熊爸\教程\help-document\docs\_media\1561020972958.png)

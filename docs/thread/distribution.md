@@ -6,5 +6,5 @@
 
 ![img](https://uploader.shimo.im/f/oS9HTjATeFoclQj6.png!thumbnail)
 
-- 在配送员超出 1 小时未处理订单时，系统会提示【更换配送员】。![1561013113549](E:\熊爸爸\熊爸\教程\help-document\docs\_media\1561013113549.png)
+- 在配送员超出 1 小时未处理订单时，系统会提示【更换配送员】。![1561013113549](_media\1561013113549.png)
 

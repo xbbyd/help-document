@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Polly.JS" width="300px" src="_media/logo_lg.png" />
+  Polly.JS
 </p>
 <h2 align="center">Record, Replay, and Stub HTTP Interactions</h2>
 

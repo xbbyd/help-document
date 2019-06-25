@@ -20,12 +20,12 @@
   - [绘本管理](thread/books.md)
   - [标签管理](thread/label.md)
 - 课程管理
-  - [课程管理](thread/scourse.md)
+  - [课程管理](thread/course.md)
 - 商品管理
   - [商品管理](thread/goods.md)
 - 批发采购
   - [商城采购](thread/purchaseBooks.md)
 - 财务管理
-  - [分销收益](thread/scourse.md)
+  - [分销收益](thread/earnings.md)
   - [其他收支](thread/otherSpending.md)
 

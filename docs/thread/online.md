@@ -6,7 +6,7 @@
 
 - 处理线上借书订单，找到对应订单后【查看】并处理。![1561012912306](_media\1561012912306.png)
 
-- 在借书单详情中选择【出库】后，进行【配送员】的分配，完成当前【待出库】事务的处理。 ![img](https://uploader.shimo.im/f/osV8DKGZmEs3GL1a.png!thumbnail)       
+- 在借书单详情中选择【出库】后，进行【配送员】的分配，完成当前【待出库】事务的处理。 ![img](_media\xuanzepeisongyuan.png)       
 
 
 

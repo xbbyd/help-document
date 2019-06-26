@@ -1,5 +1,10 @@
 
 
+- 熊爸爸阅读管理
+  - [为什么做这样的平台](thread/why.md)
+  - [各平台地址](thread/address.md)
+  - [入驻流程](thread/enter.md)
+  - [常见问题](thread/problems.md)
 - 借阅管理
   - [线上借书单](thread/online.md)
   - [店内借书](thread/instores.md)
